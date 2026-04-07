@@ -1,5 +1,13 @@
 <h1 align="center"> <a href=https://arxiv.org/abs/2312.00347>RTQ: Rethinking Video-language Understanding <br/> Based on Image-text models</a></h2>
 
+## Authors
+
+**Xiao Wang**<sup>1,2</sup>, **Yaoyu Li**<sup>2</sup>, **Tian Gan**<sup>3</sup>*, **Zheng Zhang**<sup>2</sup>, **Jingjing Lv**<sup>2</sup>, **Liqiang Nie**<sup>1</sup>
+
+<sup>1</sup> `Harbin Institute of Technology, Shenzhen`  
+<sup>2</sup> `JD.com Inc.` 
+<sup>3</sup> `Shandong University`  
+* Corresponding author
 
 
 ## :sparkles: Highlights
